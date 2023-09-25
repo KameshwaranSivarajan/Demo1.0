@@ -1,3 +1,3 @@
-## Welcome to D360
+## Welcome
 - [Test](Test.md)
 
